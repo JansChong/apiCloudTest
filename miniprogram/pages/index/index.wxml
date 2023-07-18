@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view>{{list[4].children[0].model.resource.title}}</view>
+
+  <view>{{list[4].children[0].model.resource.content}}</view>
+</view>
